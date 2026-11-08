@@ -73,7 +73,9 @@ plt.show()
 The model groups the 300 data points into **4 distinct clusters**. The scatter plot shows each cluster in a different color, with the **red markers** indicating the learned cluster centers.
 
 > Add your output image here after uploading it to the repo:
-> `![K-means Clustering Result](images/kmeans_result.png)`
+<p align="center">
+  <img src="images/exp09.png" width="500" alt="K-means Clustering Result">
+</p>
 
 ---
 
